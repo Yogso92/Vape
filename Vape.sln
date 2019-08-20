@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Vape", "Vape\Vape.sqlproj", "{F6F574EC-2409-4C63-8FEF-EE97A36CE981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testVape", "testVape\testVape.csproj", "{A7DCDC5D-CB83-499C-A1F5-4ABB5230822C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F574EC-2409-4C63-8FEF-EE97A36CE981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F574EC-2409-4C63-8FEF-EE97A36CE981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F574EC-2409-4C63-8FEF-EE97A36CE981}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6F574EC-2409-4C63-8FEF-EE97A36CE981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F574EC-2409-4C63-8FEF-EE97A36CE981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F574EC-2409-4C63-8FEF-EE97A36CE981}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A7DCDC5D-CB83-499C-A1F5-4ABB5230822C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DCDC5D-CB83-499C-A1F5-4ABB5230822C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DCDC5D-CB83-499C-A1F5-4ABB5230822C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DCDC5D-CB83-499C-A1F5-4ABB5230822C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69FE1E5-8E4F-442E-A78C-349A6E909D6D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Box]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[MinWatts] INT NOT NULL,
+	[MaxWatts] INT NOT NULL,
+	[Brand] VARCHAR(50)
+)
